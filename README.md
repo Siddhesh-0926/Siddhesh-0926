@@ -5,15 +5,9 @@ Hi, I'm Siddhesh — a dedicated Computer Science enthusiast and a student at Aj
 
 My academic journey at ADYPU has provided me with a solid foundation in fundamental computer science concepts—algorithms, data structures, and programming—elevated through hands-on exposure to AI/ML methodologies. Through programs like BCA with AI/ML specialization and B.Tech in Computer Science & Engineering with AI/Data Science, our curriculum emphasizes modern techniques such as supervised and unsupervised learning, deep learning, computer vision, and natural language processing, all backed by practical, project-based learning and state-of-the-art labs 
 soe.adypu.edu.in
-+1
-Top University India
-.
 
-The university’s AI & Data Science department fosters innovation through its S4DS Student Chapter—a hub for collaboration, industry interaction, and events like "Technovanza 2023," enriching my learning beyond the classroom 
-adypsoe.in
-. With access to specialized labs for AI, Machine Learning, and Programming, I’ve been able to work hands-on with real-world tools and datasets 
-adypsoe.in
-.
+
+
 
 I thrive on solving real-world problems by applying AI/ML techniques—whether it’s building classification systems, optimizing models, or crafting intelligent applications in NLP and computer vision. My goal is to bridge theoretical knowledge with practical implementation, backed by strong programming skills (especially in Python), familiarity with AI frameworks, and a collaborative mindset.
 
