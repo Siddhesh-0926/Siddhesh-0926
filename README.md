@@ -1,4 +1,22 @@
+Hi, I'm Siddhesh — a dedicated Computer Science enthusiast and a student at Ajeenkya D.Y. Patil University, deeply passionate about the transformative realms of Artificial Intelligence and Machine Learning.
 
+My academic journey at ADYPU has provided me with a solid foundation in fundamental computer science concepts—algorithms, data structures, and programming—elevated through hands-on exposure to AI/ML methodologies. Through programs like BCA with AI/ML specialization and B.Tech in Computer Science & Engineering with AI/Data Science, our curriculum emphasizes modern techniques such as supervised and unsupervised learning, deep learning, computer vision, and natural language processing, all backed by practical, project-based learning and state-of-the-art labs 
+soe.adypu.edu.in
++1
+Top University India
+.
+
+The university’s AI & Data Science department fosters innovation through its S4DS Student Chapter—a hub for collaboration, industry interaction, and events like "Technovanza 2023," enriching my learning beyond the classroom 
+adypsoe.in
+. With access to specialized labs for AI, Machine Learning, and Programming, I’ve been able to work hands-on with real-world tools and datasets 
+adypsoe.in
+.
+
+I thrive on solving real-world problems by applying AI/ML techniques—whether it’s building classification systems, optimizing models, or crafting intelligent applications in NLP and computer vision. My goal is to bridge theoretical knowledge with practical implementation, backed by strong programming skills (especially in Python), familiarity with AI frameworks, and a collaborative mindset.
+
+On my GitHub, you’ll find projects that illustrate this—think an ML model for predictive analysis in a domain of interest or an NLP app that demonstrates language understanding. Each project features a clear README, runtime examples, and structured code to make things easy to follow and replicate.
+
+Let’s connect—whether it’s to collaborate on open-source AI projects, exchange ideas, or contribute to exciting challenges in AI and ML!
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Siddhesh-0926) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/siddheshbharadkar_00093) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Siddhesh Bharadkar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhesh_bharadkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhesh Bharadkar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Siddhesh123) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/srbharadkar2004) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@siddheshbharadkar8548?si=vDCtiuzqNwO2o-RZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srbharadkar2004@gmail.com) 
 
