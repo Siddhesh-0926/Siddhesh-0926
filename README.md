@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Siddhesh Bharadkar
 
-Email Me 👉 ✉️ siddheshbharadkar2004@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
 Hi, I'm Siddhesh — a dedicated Computer Science enthusiast and a student at Ajeenkya D.Y. Patil University, deeply passionate about the transformative realms of Artificial Intelligence and Machine Learning.
 
 My academic journey at ADYPU has provided me with a solid foundation in fundamental computer science concepts—algorithms, data structures, and programming—elevated through hands-on exposure to AI/ML methodologies. Through programs like BCA with AI/ML specialization and B.Tech in Computer Science & Engineering with AI/Data Science, our curriculum emphasizes modern techniques such as supervised and unsupervised learning, deep learning, computer vision, and natural language processing, all backed by practical, project-based learning and state-of-the-art labs 
@@ -20,6 +20,8 @@ I thrive on solving real-world problems by applying AI/ML techniques—whether i
 On my GitHub, you’ll find projects that illustrate this—think an ML model for predictive analysis in a domain of interest or an NLP app that demonstrates language understanding. Each project features a clear README, runtime examples, and structured code to make things easy to follow and replicate.
 
 Let’s connect—whether it’s to collaborate on open-source AI projects, exchange ideas, or contribute to exciting challenges in AI and ML!
+
+Email Me 👉 ✉️ siddheshbharadkar2004@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 
 # 💻 Tech Stack:
