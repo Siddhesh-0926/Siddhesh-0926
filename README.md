@@ -15,7 +15,7 @@ On my GitHub, you’ll find projects that illustrate this—think an ML model fo
 
 Let’s connect—whether it’s to collaborate on open-source AI projects, exchange ideas, or contribute to exciting challenges in AI and ML!
 
-Email Me 👉 ✉️ siddheshbharadkar2004@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ srbharadkar2004@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 
 # 💻 Tech Stack:
